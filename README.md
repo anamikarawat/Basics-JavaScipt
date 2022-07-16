@@ -89,6 +89,52 @@ New Binding >> Explicit binding >> Implicit binding >> Default binding
 
 ![Screenshot (1929)](https://user-images.githubusercontent.com/95397876/179363406-3f4ada06-7750-4564-9e7f-bffef5c8cdd9.png)
 
+# Callbacks - Synchronous and Asynchronous
+![Screenshot (1929)](https://user-images.githubusercontent.com/95397876/179363503-6ae0fe85-e763-496c-8356-5d99ba5f670e.png)
+
+![Screenshot (1929)](https://user-images.githubusercontent.com/95397876/179363524-693c8194-39fe-4e7e-9f11-0d53ec943332.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363540-f13cdb94-b94e-4a8d-9fd0-7947f2a56ca1.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363566-7b0c3479-c299-451d-b9dc-289d22abb20f.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363583-a6db5d54-4735-44d7-9a38-381da06a0a8a.png)
+
+# Promises
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363637-aef44d02-d3a8-4e21-ad50-d095185bc011.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363663-a89e5a15-00dc-4467-98a4-5f9ede1a4c6e.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363679-22653f3e-17ce-40dc-82d2-3e42fe399766.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363712-b1a2a589-663c-4b89-847b-33997693f51d.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363740-79ba2c27-5b19-4256-b7d0-dee757c39154.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363763-7a1441e8-8519-482d-8ba2-62eb171ef7b7.png)
+
+![Screenshot (1940)](https://user-images.githubusercontent.com/95397876/179363787-7c1c1782-3de0-4f89-816e-6e851a2de3ea.png)
+
+![Screenshot (1948)](https://user-images.githubusercontent.com/95397876/179363808-dca6fe20-cd74-4fce-a92a-bd4bc47c11b7.png)
+
+![Screenshot (1948)](https://user-images.githubusercontent.com/95397876/179363843-f0c01d00-a4a1-4836-9786-771902ccc2b3.png)
+
+![Screenshot (1948)](https://user-images.githubusercontent.com/95397876/179363857-a4c07e87-a2db-4266-a4fc-e44533aebfa4.png)
+
+![Screenshot (1948)](https://user-images.githubusercontent.com/95397876/179363880-1d398139-cf45-4a76-b35f-bc2655d0f8aa.png)
+
+![Screenshot (1948)](https://user-images.githubusercontent.com/95397876/179363902-6da15a4f-3a59-452c-bb70-80dcb558d5ee.png)
+
+![Screenshot (1953)](https://user-images.githubusercontent.com/95397876/179363922-8dcb3718-b8d2-4f97-8ad3-0e5418505552.png)
+
+![Screenshot (1953)](https://user-images.githubusercontent.com/95397876/179363946-7479a1b3-17a9-488f-a955-1e143213006e.png)
+
+![Screenshot (1953)](https://user-images.githubusercontent.com/95397876/179363965-c24699a5-cb36-4a5a-9452-4cd0f0782cc1.png)
+
+![Screenshot (1953)](https://user-images.githubusercontent.com/95397876/179363995-c030ae8a-45fb-49f9-a401-fb1ac8247d18.png)
+
+# Async - Await
 
 
 
