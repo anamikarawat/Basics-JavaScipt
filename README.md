@@ -142,7 +142,26 @@ New Binding >> Explicit binding >> Implicit binding >> Default binding
 
 ![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364176-d5e1e37a-8eab-4745-ac7d-1b5508154a62.png)
 
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364457-96c3f4cd-910e-453d-8d96-9172b357278b.png)
 
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364480-3e0c1af2-60a5-41d9-bf28-8809d9698468.png)
+
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364495-7297b8db-b813-4f61-9507-1dcf3cdf31a3.png)
+
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364523-d9523cab-0e54-4520-9e2b-6cd7840aad57.png)
+
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364540-c02cd87d-420c-4466-86ee-cb76c36c9f08.png)
+
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364558-32e68ff8-ba4a-46f0-aec8-855abb5a73a2.png)
+
+# Event loop
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364586-c073b627-abab-41f2-89aa-82d10b6a39e0.png)
+
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364671-26ee144c-7c26-4048-bae9-9799fe5f995e.png)
+
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364710-9c3cc566-fdfd-4e6b-a8d5-430ce3cec3f1.png)
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364756-29c03a2a-526a-44b1-bea8-607cd62ee272.png)
+![Screenshot (1991)](https://user-images.githubusercontent.com/95397876/179364791-b2ca02c5-1777-4d86-a752-00862523ec68.png)
 
 
 
